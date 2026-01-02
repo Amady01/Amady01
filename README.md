@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Amady01FromSN<br>👀 I’m interested in Data Science<br>🌱 I’m currently learning DevOps <br>💞️ I’m looking to collaborate on computer science<br>
+👋 Hi, I’m @Amady01FromSN<br>👀 I’m interested in Artificial Intelligence /Data Science<br>🌱 I’m currently learning Computer Science  <br>💞️ I’m looking to collaborate on open source projects<br>
 
 
 ## 🌐 Socials:
